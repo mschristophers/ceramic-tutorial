@@ -6,7 +6,7 @@ import { useViewerConnection, useViewerRecord } from "@self.id/react";
 import { EthereumAuthProvider } from "@self.id/web";
 
 function RecordSetter() {
-  // did:3:kjzl6cwe1jw1471lux0qgy2qwzgyj3sz0ko96d5b9o6kcrcwt6rnp1glq83zjri 
+  // did:3:kjzl6cwe1jw14b2b257l02d65s0hbgd718bvou17xu0kogq16fd4kw7biilvsoe 
   // Timestamp: 1653711657
 
   const [name, setName] = useState("");
